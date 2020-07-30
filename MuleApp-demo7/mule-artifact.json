@@ -1,0 +1,1 @@
+{"configs":["mule-config.xml"],"domain":"default","classLoaderModelLoaderDescriptor":{"attributes":{"exportedPackages":[],"exportedResources":["api/api.raml"]},"id":"mule"},"requiredProduct":"MULE","minMuleVersion":"4.0.0","bundleDescriptorLoader":{"attributes":{},"id":"mule"}}
